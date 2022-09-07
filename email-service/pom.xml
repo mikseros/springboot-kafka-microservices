@@ -15,5 +15,11 @@
       <artifactId>lombok</artifactId>
       <optional>true</optional>
     </dependency>
+    
+    <dependency>
+    	<groupId>com.mikseros</groupId>
+    	<artifactId>base-domains</artifactId>
+  		<version>0.0.2-SNAPSHOT</version>
+    </dependency>
   </dependencies>
 </project>
